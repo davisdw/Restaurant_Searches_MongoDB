@@ -84,7 +84,7 @@ Display the first document in the results using pprint.
 
 Convert the result to a Pandas DataFrame, print the number of rows in the DataFrame, and display the first 10 rows.
 
-==============================Exploratory Analysis Results===================================
+================Exploratory Analysis Results==================
 
 **
 Which establishments have a hygiene score equal to 20?
